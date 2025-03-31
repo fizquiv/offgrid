@@ -9,4 +9,5 @@ Offgrid is a communication hybrid app built with react native. It leverages the 
 
 ### Demo
 
-[![demo video](./assets/LoRa_demo.mp4)]
+[![Demo Video](https://img.youtube.com/vi/N-xgb2VrMKs/0.jpg)](https://youtu.be/N-xgb2VrMKs)
+
