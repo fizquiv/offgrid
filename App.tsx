@@ -94,7 +94,7 @@ export default function App() {
     }
     try {
       const base64Message = base64.encode(message);
-      await connectedDevice.writeCharacteristicWithoutResponseForService(
+      await connectedDevice.writeCharacteristicWithResponseForService(
         SERVICE_UUID,
         CHARACTERISTIC_UUID,
         base64Message,
